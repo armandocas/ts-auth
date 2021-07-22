@@ -6,10 +6,15 @@
 
 Autenticação JWT [TypeScript] - [TypeORM]
 
-## Instalação
+## Instalação 💻
 
 
 ```sh
   $ git clone https://github.com/armandocas/ts-auth.git
 ```
 
+## Dados de Conexão 🔌
+
+```sh
+arquivo: ormconfig.json
+```
